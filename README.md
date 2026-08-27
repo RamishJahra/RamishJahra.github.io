@@ -1,27 +1,50 @@
-# Jahra Hossain — Portfolio
+# Personal Portfolio
 
-A responsive, static portfolio website built with plain HTML, CSS and JavaScript.
+My personal portfolio website — a place where I showcase my projects, skills, achievements, and writing.
 
-## Deploy on GitHub Pages
+## About
 
-1. Create a public GitHub repository.
-2. Upload `index.html`, `style.css`, `script.js`, `README.md`, and the `assets` folder.
-3. Go to **Settings → Pages**.
-4. Select the `main` branch and the root folder as the source.
-5. Save and open the generated Pages URL.
+I am a Computer Science and Engineering student currently at the beginning of my career. I don't have a long list of professional experiences or accomplishments yet, but I have a lot I want to learn, build, and achieve.
 
-For a personal site, GitHub's recommended user-site repository name is `<your-username>.github.io`.
+This portfolio represents where I am today and will continue to grow as I progress through my career.
 
-## Deploy on Vercel
+## What's Inside
 
-Import this repository into Vercel. No build command is required because this is a static site.
+- About Me
+- Technical Skills
+- Projects
+- Achievements
+- Writing
+- Contact Information
 
-## Before publishing
+## Tech Stack
 
-Replace:
-- `your-email@example.com`
-- `https://github.com/`
-- `https://www.linkedin.com/`
-- `assets/Jahra-Hossain-CV.pdf` with your actual CV PDF
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+## Featured Project
+
+### CVision
+
+An AI-powered resume screening and recruitment platform designed to help recruiters and applicants through resume analysis, ATS scoring, job matching, and candidate ranking.
+
+**Built with:** Python, Flask, MySQL, HTML, CSS, JavaScript, and Bootstrap.
+
+## Live Portfolio
+
+[Visit My Portfolio](YOUR_PORTFOLIO_LINK)
+
+## Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_LINK)  
+[GitHub](YOUR_GITHUB_LINK)
+
+---
+
+This portfolio is a work in progress — just like my career.
+
+I'm starting with what I have today, and I aim to keep learning, building, and adding more to it along the way.- `assets/Jahra-Hossain-CV.pdf` with your actual CV PDF
 
 You can also add project links to the project cards in `index.html`.
