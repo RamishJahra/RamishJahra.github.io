@@ -31,20 +31,3 @@ This portfolio represents where I am today and will continue to grow as I progre
 An AI-powered resume screening and recruitment platform designed to help recruiters and applicants through resume analysis, ATS scoring, job matching, and candidate ranking.
 
 **Built with:** Python, Flask, MySQL, HTML, CSS, JavaScript, and Bootstrap.
-
-## Live Portfolio
-
-[Visit My Portfolio](YOUR_PORTFOLIO_LINK)
-
-## Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_LINK)  
-[GitHub](YOUR_GITHUB_LINK)
-
----
-
-This portfolio is a work in progress — just like my career.
-
-I'm starting with what I have today, and I aim to keep learning, building, and adding more to it along the way.- `assets/Jahra-Hossain-CV.pdf` with your actual CV PDF
-
-You can also add project links to the project cards in `index.html`.
