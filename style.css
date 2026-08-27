@@ -566,7 +566,17 @@ h2 span {
   opacity: .65;
 }
 
+.education-section .projects {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
 
+.education-section .project {
+  flex: 1;
+  min-width: 250px;
+  border: 2px solid #ecadad !important;
+}
 /* =========================
    WORK / PROJECTS
 ========================= */
@@ -763,7 +773,12 @@ h2 span {
 /* =========================
    SKILLS
 ========================= */
-
+.skills-section {
+  background-color: #f0d7d7; /* Change to your preferred hex code */
+  border-radius: 16px;       /* Keeps rounded corners matching modern portfolio styles */
+  padding: 3rem 2rem;        /* Adds space inside the box so content isn't cramped */
+  border: 1px solid rgba(233, 173, 173, 0.08); /* Optional subtle border */
+}
 .skills-wrap {
   display: grid;
   grid-template-columns: 1fr 1.5fr;
