@@ -24,10 +24,3 @@ This portfolio represents where I am today and will continue to grow as I progre
 - JavaScript
 - Bootstrap
 
-## Featured Project
-
-### CVision
-
-An AI-powered resume screening and recruitment platform designed to help recruiters and applicants through resume analysis, ATS scoring, job matching, and candidate ranking.
-
-**Built with:** Python, Flask, MySQL, HTML, CSS, JavaScript, and Bootstrap.
